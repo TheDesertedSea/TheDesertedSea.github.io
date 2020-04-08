@@ -19,7 +19,7 @@ layout: default
 
 <dl>
 <dt>Name</dt>
-<dd>MIZHIDAO</dd>
+<dd>荒海</dd>
 <dt>Born</dt>
 <dd>2000.8.19</dd>
 <dt>Birthplace</dt>
