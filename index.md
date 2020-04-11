@@ -24,9 +24,7 @@ layout: default
 <dl>
 <dt>Name</dt>
 <dd>荒海</dd>
-<dt>Born</dt>
-<dd>2000.8.19</dd>
-<dt>Birthplace</dt>
+<dt>Location</dt>
 <dd>China</dd>
 </dl>
 
