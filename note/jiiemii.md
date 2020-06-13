@@ -53,7 +53,8 @@ int main(int argc, char* argv[])
 	}
 
 	if (strcmp(argv[1],"-e")==0)
-	{//加密，创建两个迭代器分别从头和从尾，同时遍历目标行的string,头放一个字符到结果string，尾放一个在后面，依次进行
+	{//加密，创建两个迭代器分别从头和从尾，同时遍历目标行的string,头放
+	 //一个字符到结果string，尾放一个在后面，依次进行
 		for (auto l : wv)
 		{
 			string temp;
@@ -83,8 +84,9 @@ int main(int argc, char* argv[])
 
 	}
 	else if (strcmp(argv[1], "-d") == 0)
-	{//解密，创建两个迭代器分别从头和从尾，遍历目标行的string，头只遍历奇数位置，尾只遍历偶数位置，
-		//先让头遍历到的字符全部放入结果string，再让尾遍历到的字符放入其后
+	{//解密，创建两个迭代器分别从头和从尾，遍历目标行的string，头只遍历奇数位置
+	//，尾只遍历偶数位置，先让头遍历到的字符全部放入结果string，再让尾遍历到的字
+	//符放入其后
 		for (auto l : wv)
 		{
 			string temp;
