@@ -23,7 +23,6 @@ layout: default
 # 笔记
 
 *   [leetcode 题目：接雨水](./note/接雨水.html)
-*   [自己写的一个txt文本加密小程序](./note/jiiemii.html)
 
 * * *
 
